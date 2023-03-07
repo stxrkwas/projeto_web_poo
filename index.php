@@ -13,7 +13,7 @@
     
             Bairro: <input type="text" name="bairro" id="bairro"><br><br>
 
-            CEP: <input type="text" name="cep" id="cep"></br><br>
+            CEP: <input type="text" name="cep" id="cep"><br><br>
 
             Cidade: <input type="text" name="cidade" id="cidade"><br><br>
 
